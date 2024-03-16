@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SistemaInventarioV6.AccesoDatos.Data;
 using SistemaInventarioV6.AccesoDatos.Repositorio;
+using SistemaInventarioV6.AccesoDatos.Repositorio.IRepositorio;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,7 +18,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
 builder.Services.AddScoped<UnidadTrabajo, UnidadTrabajo>();
-
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
 
 var app = builder.Build();
 
