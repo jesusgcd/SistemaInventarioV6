@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SistemaInventario.AccesoDatos.Repositorio;
 using SistemaInventarioV6.AccesoDatos.Data;
 using SistemaInventarioV6.AccesoDatos.Repositorio.IRepositorio;
 
@@ -13,11 +14,13 @@ namespace SistemaInventarioV6.AccesoDatos.Repositorio
 
         private readonly ApplicationDbContext _db;
         public IBodegaRepositorio Bodega {  get; private set; }
+        public ICategoriaRepositorio Categoria { get; private set; }
 
         public UnidadTrabajo(ApplicationDbContext db)
         {
             _db = db;
             Bodega = new BodegaRepositorio(_db);
+            Categoria = new CategoriaRepositorio(_db);
         }
 
 

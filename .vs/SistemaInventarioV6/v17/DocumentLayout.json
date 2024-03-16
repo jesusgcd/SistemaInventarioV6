@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90F8A44-C531-4753-B102-84E892978D73}|SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventario.modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90F8A44-C531-4753-B102-84E892978D73}|SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj|solutionrelative:sistemainventario.modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 129,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventario.Modelos\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Categoria.cs",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventario.Modelos\\Categoria.cs",
+              "RelativeToolTip": "SistemaInventario.Modelos\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:14:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T21:01:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "categoria.js",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\categoria.js",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\wwwroot\\js\\categoria.js",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\categoria.js",
+              "RelativeToolTip": "SistemaInventarioV6\\wwwroot\\js\\categoria.js",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-16T20:57:54.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T20:56:12.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T20:55:55.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:51:28.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
