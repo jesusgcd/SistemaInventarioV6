@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90F8A44-C531-4753-B102-84E892978D73}|SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventario.modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90F8A44-C531-4753-B102-84E892978D73}|SistemaInventario.Modelos\\SistemaInventarioV6.Modelos.csproj|solutionrelative:sistemainventario.modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\views\\marca\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\views\\marca\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\wwwroot\\js\\marca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\wwwroot\\js\\marca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\workspace\\git\\is 2024\\dise\u00F1o\\tareas\\tarea 3(tutorial net)\\sistemainventariov6\\sistemainventariov6\\areas\\admin\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E9D88-592D-4AF9-8B8F-C67193AD3A45}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\areas\\admin\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventario.Modelos\\Categoria.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Categoria.cs",
-              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventario.Modelos\\Categoria.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:14:54.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SistemaInventarioV6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCsAAABgAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T21:01:19.844Z",
+              "WhenOpened": "2024-03-17T00:50:14.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "categoria.js",
-              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\categoria.js",
-              "RelativeDocumentMoniker": "SistemaInventarioV6\\wwwroot\\js\\categoria.js",
-              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\categoria.js",
-              "RelativeToolTip": "SistemaInventarioV6\\wwwroot\\js\\categoria.js",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAABQAAAANAAAA",
+              "DocumentIndex": 2,
+              "Title": "marca.js",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\marca.js",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\wwwroot\\js\\marca.js",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\marca.js",
+              "RelativeToolTip": "SistemaInventarioV6\\wwwroot\\js\\marca.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-16T20:57:54.843Z",
+              "WhenOpened": "2024-03-17T00:49:21.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Upsert.cshtml",
-              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAB2AAAA",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T20:56:12.356Z",
+              "WhenOpened": "2024-03-17T00:48:24.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Views\\Marca\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T20:55:55.057Z",
+              "WhenOpened": "2024-03-17T00:47:55.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\WorkSpace\\git\\IS 2024\\dise\u00F1o\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "SistemaInventarioV6\\Areas\\Admin\\Controllers\\MarcaController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T20:51:28.294Z",
+              "WhenOpened": "2024-03-17T00:44:49.418Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

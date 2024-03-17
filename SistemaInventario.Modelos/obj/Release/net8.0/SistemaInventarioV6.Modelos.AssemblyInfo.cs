@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaInventarioV6.Modelos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db15e2ac8bbf294d526371fbf8edf2d50918b0c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f593bf52194a69017b0d79c3214e00d6cc2584e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaInventarioV6.Modelos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaInventarioV6.Modelos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
