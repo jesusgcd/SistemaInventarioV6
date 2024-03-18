@@ -13,16 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\WorkSpace\\git\\IS 2024\\diseño\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "C:\\WorkSpace\\git\\IS 2024\\diseño\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
       "Id": "C:\\WorkSpace\\git\\IS 2024\\diseño\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\63d7d930-aeb1-49a6-948c-f9d798112614.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\63d7d930-aeb1-49a6-948c-f9d798112614.JPG"
-    },
-    {
-      "Id": "C:\\WorkSpace\\git\\IS 2024\\diseño\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\90323645-8cfb-4143-9839-6e01df025d1d.JPG",
-      "PackagePath": "staticwebassets\\imagenes\\producto\\90323645-8cfb-4143-9839-6e01df025d1d.JPG"
-    },
-    {
-      "Id": "C:\\WorkSpace\\git\\IS 2024\\diseño\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\cb2e95ea-027c-4456-a6aa-c5b00c0b7eac.JPG",
-      "PackagePath": "staticwebassets\\imagenes\\producto\\cb2e95ea-027c-4456-a6aa-c5b00c0b7eac.JPG"
     },
     {
       "Id": "C:\\WorkSpace\\git\\IS 2024\\diseño\\tareas\\tarea 3(Tutorial Net)\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\bodega.js",
